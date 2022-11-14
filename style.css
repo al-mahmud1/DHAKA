@@ -4,7 +4,17 @@ body{
 .name_color{
     color:orange;
 }
-
+.half_width{
+    width: 40%;
+    float: left;
+    padding-left: 6%;
+    margin-left: 2%;
+}
+img{
+    width: 100%;
+    padding-top: 5%;
+   
+}
 
 h1{
     font-size: 50px;
